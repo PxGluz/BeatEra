@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1094d0cc785f45c4ab98da6208abbb87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - manager: {instanceID: 0}
+  - continu: {instanceID: 0}
+  - leftArm: {instanceID: 0}
+  - rightArm: {instanceID: 0}
+  - leftLeg: {instanceID: 0}
+  - rightLeg: {instanceID: 0}
+  - head: {instanceID: 0}
+  - torso: {instanceID: 0}
+  - step: {fileID: 7193798702153954682, guid: 6d75abb908c11964f80483d1d54622f4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
