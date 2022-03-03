@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 198da440257ca9b42b3fd4479e53a36a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4082192929511254294
+    second: Beat Era - Page Transition_0
+  - first:
+      213: -5633242117250350031
+    second: Beat Era - Page Transition_1
+  - first:
+      213: 4764638612773419898
+    second: Beat Era - Page Transition_2
+  - first:
+      213: -997975283221756599
+    second: Beat Era - Page Transition_3
+  - first:
+      213: 1031525719048231659
+    second: Beat Era - Page Transition_4
+  - first:
+      213: -190981673192802201
+    second: Beat Era - Page Transition_5
+  - first:
+      213: 4249711989811099906
+    second: Beat Era - Page Transition_6
+  - first:
+      213: -2046741346347229437
+    second: Beat Era - Page Transition_7
+  - first:
+      213: 1853700759909237578
+    second: Beat Era - Page Transition_8
+  - first:
+      213: -8953443421072954688
+    second: Beat Era - Page Transition_9
+  - first:
+      213: 2364059778658461398
+    second: Beat Era - Page Transition_10
+  - first:
+      213: -8790643576815447826
+    second: Beat Era - Page Transition_11
+  - first:
+      213: -6632041185543452928
+    second: Beat Era - Page Transition_12
+  - first:
+      213: 7969023484091556031
+    second: Beat Era - Page Transition_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_0
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 3202
+        width: 88
+        height: 1406
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceae7065140df8439cd2945d18f4b0c
+      internalID: -4082192929511254294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_1
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 3202
+        width: 113
+        height: 1406
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b1bb361eb0e754dacb4054e111ac27
+      internalID: -5633242117250350031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_2
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 3202
+        width: 171
+        height: 1406
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6811883cb9103e94491b721537c2515a
+      internalID: 4764638612773419898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_3
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 3202
+        width: 254
+        height: 1406
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b27fb552c9fb44893cb964f2acf55d
+      internalID: -997975283221756599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1673
+        width: 315
+        height: 1407
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bedb4c7251fc46b9fd4f5802c0128
+      internalID: 1031525719048231659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_5
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1654
+        width: 365
+        height: 1420
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368372908ff80f4c982c887956a6af2
+      internalID: -190981673192802201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_6
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1643
+        width: 437
+        height: 1431
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf0fb26dbf7e1e468dbb9ee98ead5b1
+      internalID: 4249711989811099906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_7
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 1631
+        width: 495
+        height: 1443
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a970bbb05b6ae4087647ebd308748c
+      internalID: -2046741346347229437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_8
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 1631
+        width: 542
+        height: 1431
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ccc61f38806364198d29d5e407a32c
+      internalID: 1853700759909237578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 578
+        height: 1419
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bfbae90fa7b63478a55707cec3a686
+      internalID: -8953443421072954688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_10
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 95
+        width: 617
+        height: 1406
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8461b8901029fdc4986fefa5c67f5033
+      internalID: 2364059778658461398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_11
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 83
+        width: 653
+        height: 1418
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a006887affa004cb02535cf78e2178
+      internalID: -8790643576815447826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_12
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 83
+        width: 686
+        height: 1395
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22404e48bcfcf4b449008faab5af6202
+      internalID: -6632041185543452928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beat Era - Page Transition_13
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 83
+        width: 686
+        height: 1371
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e15cf843b47bf429e453df7e992725
+      internalID: 7969023484091556031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
