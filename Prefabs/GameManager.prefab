@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4133996054722769367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4133996054722769365}
+  - component: {fileID: 4848962532259508255}
+  - component: {fileID: 4133996054722769364}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4133996054722769365
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4133996054722769367}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.784525, y: 6.305953, z: 1.4379289}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4848962532259508255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4133996054722769367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0aeea29b21842b44807417978308d07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spwn: {fileID: 0}
+  mng: {fileID: 0}
+  scr: {fileID: 0}
+  tim: {fileID: 0}
+  ea: {fileID: 0}
+--- !u!114 &4133996054722769364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4133996054722769367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d8d2a2a4dd0dbb42ac1c3d7663f60f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pillar: {fileID: 2269108629700467946, guid: 8e05824c7f1544748acc768f2ccdfd4b, type: 3}
+  parent: {fileID: 0}
+  player: {fileID: 6755363291625670306, guid: 244b9a36ebd3ebe4d8dac2a677018f04, type: 3}
+  gameOver: {fileID: 0}
+  gover: {fileID: 0}
+  paus: {fileID: 0}
+  pau: {fileID: 0}
+  resume: {fileID: 0}
+  resum: {fileID: 0}
+  resu: {fileID: 0}
+  delay: 3
+  retry: {fileID: 0}
+  backToMenu: {fileID: 0}
+  mapSize: 3
+  addedAmount: 1
+  score: 0
+  scoreOfChange: 0
+  cooldown: 0
+  bonus: 10
+  ok: 0
+  isEligble: 0
+  spark: 0
+  gm: 0
+  pause: 0
+  mapShrink: 0
+  bonusTime: 0
+  increase: 0
+  shake: 0
